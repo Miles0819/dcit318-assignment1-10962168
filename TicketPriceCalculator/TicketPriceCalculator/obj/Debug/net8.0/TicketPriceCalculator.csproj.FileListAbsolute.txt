@@ -1,0 +1,14 @@
+c:\Users\tackom001\Desktop\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.exe
+C:\Users\tackom001\Desktop\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.deps.json
+C:\Users\tackom001\Desktop\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.runtimeconfig.json
+c:\Users\tackom001\Desktop\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.dll
+c:\Users\tackom001\Desktop\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.pdb
+c:\Users\tackom001\Desktop\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\tackom001\Desktop\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.AssemblyInfoInputs.cache
+c:\Users\tackom001\Desktop\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.AssemblyInfo.cs
+c:\Users\tackom001\Desktop\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.csproj.CoreCompileInputs.cache
+c:\Users\tackom001\Desktop\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.dll
+c:\Users\tackom001\Desktop\TicketPriceCalculator\obj\Debug\net8.0\refint\TicketPriceCalculator.dll
+c:\Users\tackom001\Desktop\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.pdb
+C:\Users\tackom001\Desktop\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.genruntimeconfig.cache
+C:\Users\tackom001\Desktop\TicketPriceCalculator\obj\Debug\net8.0\ref\TicketPriceCalculator.dll
